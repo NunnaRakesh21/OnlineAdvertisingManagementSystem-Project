@@ -85,14 +85,14 @@ public class ClientController {
 	    	
 	    		
 	    	msg = 	customerService.addcustomer(c);
-	    	emailService.sendEmail(c.getEmail(), "Advertising Management System", "Dear " +"\n\n" +
-	    		    "Thank you for registering with our Advertising Management System. We're excited to have you as part of our community!\n\n" +
-	    		    "Here's some important information to help you get started:\n\n" +
-	    		    "Our Advertising Management System is a powerful tool to manage and optimize your advertising campaigns. With our system, you can create, track, and analyze your ads effectively.\n\n" +
-	    		    "If you have any questions or need assistance, please don't hesitate to contact our support team at rakeshnunna21@gmail.com.\n\n" +
-	    		    "We're dedicated to helping you achieve success with your advertising campaigns. Welcome aboard!\n\n" +
-	    		    "Best regards,\n K L University"
-	    		);
+//	    	emailService.sendEmail(c.getEmail(), "Advertising Management System", "Dear " +"\n\n" +
+//	    		    "Thank you for registering with our Advertising Management System. We're excited to have you as part of our community!\n\n" +
+//	    		    "Here's some important information to help you get started:\n\n" +
+//	    		    "Our Advertising Management System is a powerful tool to manage and optimize your advertising campaigns. With our system, you can create, track, and analyze your ads effectively.\n\n" +
+//	    		    "If you have any questions or need assistance, please don't hesitate to contact our support team at rakeshnunna21@gmail.com.\n\n" +
+//	    		    "We're dedicated to helping you achieve success with your advertising campaigns. Welcome aboard!\n\n" +
+//	    		    "Best regards,\n K L University"
+//	    		);
 
 
 	    	mv.setViewName("custlogin");
