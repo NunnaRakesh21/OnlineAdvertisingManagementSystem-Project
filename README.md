@@ -36,6 +36,30 @@ Features:
 ->Receive customer feedback and use it to improve advertisement quality.
 ->Manage their accounts and update company or brand information.
 
-User Registration / Sign Up
-![image](https://github.com/user-attachments/assets/eed7e504-49b6-4e14-ac93-4f9a2a4d68ce)
+User Registration / Sign Up :
+
+![image](https://github.com/user-attachments/assets/55b669df-6ec6-40ea-a9c7-118803c47a12)
+
+User Login / Sign in :
+
+![image](https://github.com/user-attachments/assets/27866c78-1e64-4c6b-ab1e-6d435beba2e7)
+
+Home Page :
+
+![image](https://github.com/user-attachments/assets/9f90b970-5b70-4e43-ac7f-69916c0b8b61)
+
+View Products Page :
+
+![image](https://github.com/user-attachments/assets/86fab86b-bd4a-4dd2-88ed-a06ed7aa3377)
+
+View Product By Category :
+
+![image](https://github.com/user-attachments/assets/6ca3c162-d5b2-4489-ae66-d3040c01893c)
+
+Update User Profile :
+
+![image](https://github.com/user-attachments/assets/44a0a21b-f67a-484b-928c-04ceb8310f2d)
+
+
+
 
