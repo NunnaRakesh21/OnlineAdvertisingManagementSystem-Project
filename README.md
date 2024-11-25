@@ -1,4 +1,4 @@
-                                                             Online Advertising Management System
+                                Online Advertising Management System
                                                              
 It is a web application developed for managing advertisements and streamlining the interaction between administrators and customers. The platform provides a solution to manage advertisements, user accounts, and customer feedback effectively.
 
